@@ -1,8 +1,0 @@
-com/sudheer/learning/springboot/main/CourseApiApp.class
-com/sudheer/learning/springboot/model/Topic.class
-com/sudheer/learning/springboot/repository/TopicRespository.class
-com/sudheer/learning/springboot/repository/Sudheer.class
-com/sudheer/learning/springboot/controller/TopicController.class
-com/sudheer/learning/springboot/controller/HelloController.class
-com/sudheer/learning/springboot/config/courseAppConfig.class
-com/sudheer/learning/springboot/service/TopicService.class
